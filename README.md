@@ -49,7 +49,10 @@
 </a>
 <a href="https://www.hackerrank.com/profile/Abhijeetlokhand2" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-%2367A4AC.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" style="margin-bottom: 5px;" />
+</a><br><a href="mailto:lokhande47342gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
 </a>
+
 
 
 <h2 align="left"> Languages and Tools</h2>
