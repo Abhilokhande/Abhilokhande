@@ -18,8 +18,6 @@
 ## Stats 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abhilokhande&theme=dark&hide_border=true&border_radius=3.2&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 <a href="https://github.com/Abhilokhande/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilokhande&layout=compact" alt="Top Languages">
-</a><a href="https://github.com/Abhilokhande/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhilokhande&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
 </a>
 
@@ -89,7 +87,9 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
-</p>
+</p><a href="https://github.com/Abhilokhande/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilokhande&layout=compact" alt="Top Languages">
+</a>
 
 
    
