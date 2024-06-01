@@ -38,6 +38,12 @@
 <a href="https://hashnode.com/@Abhi92" target="_blank">
   <img src="https://img.shields.io/badge/hashnode-%23323330.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" style="margin-bottom: 5px;" />
 </a>
+<a href="https://leetcode.com/u/Abhijeet2580" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.hackerrank.com/your_username" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-%2367A4AC.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" style="margin-bottom: 5px;" />
+</a>
 
 
 <h2 align="left"> Languages and Tools</h2>
