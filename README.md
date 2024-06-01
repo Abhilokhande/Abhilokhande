@@ -16,8 +16,7 @@
  
 
 ## Stats 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Abhilokhande=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victorcodess&theme=dark&hide_border=true&border_radius=15&background=000807)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abhijeetlokhande2580%40gmail.com&theme=dark&hide_border=true&border_radius=3.2&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 ## Connect with me  
 <div align="center">
