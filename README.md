@@ -2,13 +2,18 @@
 
 ### <div align="center">I'm Abhijeet, a seasoned Fullstack developer driven by the thrill of building robust and dynamic web applications. With expertise spanning both frontend and backend technologies, I infuse projects with versatility and depth, delivering solutions that stand the test of time.</div>
   
-## About Me 👤
+## About  👤
 
-- 🎓 Currently pursuing my Masters at Fergusson College Pune.
+🤔 Are humans in a simulation?
+
+🎓 Currently pursuing my Masters at Fergusson College Pune.
 - ✈️ Love to visit forts and enjoy traveling.
 - 💻 I use daily: *.js, .java, .py, .sql*
-- ⚡ Fun fact:LOFI --love while Driving...
-- ❓ Ask me about anything related to UI Design ,Java programming ,C++. 
+- ⚡ Fun fact: LOFI -- love while Driving...
+- ❓ Ask me about anything related to UI Design, Java programming, C++.
+
+💡 How might the principles of UI design, combined with my expertise in Java programming and C++, contribute to exploring the concept of simulated realities, as proposed by the simulation hypothesis? Let's dive into the intersection of technology and philosophy!
+
 
   
 
