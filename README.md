@@ -1,6 +1,6 @@
 ## <div align="center">Hi there! 👋🏾</div> 
 
-### <div align="center">I'm Victor, a skilled frontend developer with 3+ years of experience. I'm highly proficient in the core technologies that power modern web development, including React, TypeScript/JavaScript, Next.js, and Tailwind CSS.</div>
+### <div align="center">I'm Abhijeet, a seasoned Fullstack developer driven by the thrill of building robust and dynamic web applications. With expertise spanning both frontend and backend technologies, I infuse projects with versatility and depth, delivering solutions that stand the test of time.</div>
   
 
 - 🔭 I’m currently working on [Synthetix](https://github.com/victorcodess/synthetix)  
@@ -16,6 +16,7 @@
  
 
 ## Stats 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Abhilokhande=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victorcodess&theme=dark&hide_border=true&border_radius=15&background=000807)](https://git.io/streak-stats)
 
 ## Connect with me  
