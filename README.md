@@ -3,7 +3,6 @@
 ### <div align="center">I'm Abhijeet, a seasoned Fullstack developer driven by the thrill of building robust and dynamic web applications. With expertise spanning both frontend and backend technologies, I infuse projects with versatility and depth, delivering solutions that stand the test of time.</div>
   
 ## About  👤
-
 🤔 Are humans in a simulation?
 
 - 🎓 Currently pursuing my Masters at Fergusson College Pune.
