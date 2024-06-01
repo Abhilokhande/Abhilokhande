@@ -22,7 +22,7 @@
 </a>
 
   
-##Connect with me  
+## Connect with me  
 <div align="center">
 <a href="https://github.com/Abhilokhande" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/hashnode-%23323330.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" style="margin-bottom: 5px;" />
 </a>
 
-##<h3> Languages and Tools</h3>
+##<h2 align="left"> Languages and Tools</h2>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
