@@ -2,15 +2,16 @@
 
 ### <div align="center">I'm Abhijeet, a seasoned Fullstack developer driven by the thrill of building robust and dynamic web applications. With expertise spanning both frontend and backend technologies, I infuse projects with versatility and depth, delivering solutions that stand the test of time.</div>
   
+## About Me 👤
 
-- 🔭 I’m currently working on [Synthetix](https://github.com/victorcodess/synthetix)  
-  
-- 🌱 I’m presently learning Framer Motion, GSAP, and Three.js. 
-  
-- ❓ Ask me about anything related to UI Design and Engineering.  
+- 🎓 Currently pursuing my Masters at Fergusson College Pune.
+- ✈️ Love to visit forts and enjoy traveling.
+- 💻 I use daily: *.js, .java, .py, .sql*
+- ⚡ Fun fact:LOFI --love while Driving...
+- ❓ Ask me about anything related to UI Design ,Java programming ,C++. 
 
-- ⚡ Fun fact: I listen to way too much UK Drill. 👾  
   
+
 
 <br/>  
  
