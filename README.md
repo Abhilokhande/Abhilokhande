@@ -21,6 +21,25 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Abhilokhande&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
 </a>
 
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Abhilokhande" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://x.com/AbhiLok94828777" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/abhijeet-lokhande-18a468270/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/abhilokhande_092" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://hashnode.com/@Abhi92" target="_blank">
+  <img src="https://img.shields.io/badge/hashnode-%23323330.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" style="margin-bottom: 5px;" />
+</a>
+
+
 <h2 align="left"> Languages and Tools</h2>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -72,23 +91,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilokhande&layout=compact" alt="Top Languages">
 </a>
   
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Abhilokhande" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://x.com/AbhiLok94828777" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/abhijeet-lokhande-18a468270/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/abhilokhande_092" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://hashnode.com/@Abhi92" target="_blank">
-  <img src="https://img.shields.io/badge/hashnode-%23323330.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" style="margin-bottom: 5px;" />
-</a>
 
 
 
