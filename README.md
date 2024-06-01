@@ -89,9 +89,6 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank" rel="noreferrer">
-    <img src="https://image.flaticon.com/icons/svg/2306/2306281.svg" alt="Data Structures" width="40" height="40"/>
-  </a>
 </p>
 
 
