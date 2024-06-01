@@ -16,7 +16,7 @@
  
 
 ## Stats 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abhijeetlokhande2580%40gmail.com&theme=dark&hide_border=true&border_radius=3.2&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abhilokhande&theme=dark&hide_border=true&border_radius=3.2&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 ## Connect with me  
 <div align="center">
