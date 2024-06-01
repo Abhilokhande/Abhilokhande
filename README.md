@@ -6,7 +6,7 @@
 
 🤔 Are humans in a simulation?
 
-🎓 Currently pursuing my Masters at Fergusson College Pune.
+- 🎓 Currently pursuing my Masters at Fergusson College Pune.
 - ✈️ Love to visit forts and enjoy traveling.
 - 💻 I use daily: *.js, .java, .py, .sql*
 - ⚡ Fun fact: LOFI -- love while Driving...
