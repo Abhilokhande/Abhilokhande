@@ -117,6 +117,9 @@
  - 🚀 [Robot Shop: An In-Depth Examination of Its Three-Tier Architecture, Eight Services, and Two Databases](https://rohitexplainstech.hashnode.dev/robot-shop-an-in-depth-examination-of-its-three-tier-architecture-eight-services-and-two-databases)
  - 🚀 [Navigating AWS Cost Optimization: An In-Depth Guide &lpar;Day-12&rpar;](https://rohitexplainstech.hashnode.dev/navigating-aws-cost-optimization-an-in-depth-guide-day-12)<!-- BLOGPOSTS:END -->
 </div>
+<!-- Replace 'your_blog_hashnode_username' with your Hashnode username -->
+<iframe src="https://hashnode.com/embed/Abhi92" style="width: 100%; height: 500px; border: 0;" frameborder="0"></iframe>
+
 
 
    
