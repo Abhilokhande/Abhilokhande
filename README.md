@@ -7,7 +7,7 @@
 
 - 🎓 Currently pursuing my Masters at Fergusson College Pune.
 - ✈️ Love to visit forts and enjoy traveling.
-- 💻 I use daily: *.js, .java, .py, .sql*
+- 💻 I use daily: *.React,.js , .java, .py, .sql*
 - ⚡ Fun fact: LOFI -- love while Driving...
 - ❓ Ask me about anything related to UI Design, Java programming, C++.
 
