@@ -82,8 +82,8 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   </a>
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40"/>
+<a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
 </a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
