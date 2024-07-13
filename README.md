@@ -54,6 +54,13 @@
   <img src="https://img.shields.io/badge/HackerRank-%2367A4AC.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" style="margin-bottom: 5px;" />
 </a>
 
+## Blog links
+
+ 🚀 [Getting Started with React: Installation Process and Basics](https://abhijeetlokhande.hashnode.dev/getting-started-with-react-installation-process-and-basics)<br>
+ 🚀 [A Deep Dive into Computer Network Topologies](https://abhijeetlokhande.hashnode.dev/a-deep-dive-into-computer-network-topologies)<br>
+ 🚀 [What is an IP Address ?](https://abhijeetlokhande.hashnode.dev/what-is-an-ip-address)<br>
+🚀 [Computer Networks Navigating the Digital Highway: Demystifying Computer Networks](https://abhijeetlokhande.hashnode.dev/computer-networks)<br>
+ 🚀 [All about Devin ,an first AI software engineer in world..](https://abhijeetlokhande.hashnode.dev/what-is-devin)<br>
 
 
 <h2 align="left"> Languages and Tools</h2>
@@ -111,13 +118,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilokhande&layout=compact" alt="Top Languages">
 </a>
 
-## Blog links
-
- 🚀 [Getting Started with React: Installation Process and Basics](https://abhijeetlokhande.hashnode.dev/getting-started-with-react-installation-process-and-basics)<br>
- 🚀 [A Deep Dive into Computer Network Topologies](https://abhijeetlokhande.hashnode.dev/a-deep-dive-into-computer-network-topologies)<br>
- 🚀 [What is an IP Address ?](https://abhijeetlokhande.hashnode.dev/what-is-an-ip-address)<br>
-🚀 [Computer Networks Navigating the Digital Highway: Demystifying Computer Networks](https://abhijeetlokhande.hashnode.dev/computer-networks)<br>
- 🚀 [All about Devin ,an first AI software engineer in world..](https://abhijeetlokhande.hashnode.dev/what-is-devin)<br>
 
 
    
